@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/code-editor-web-app/static/css/main.e07ede94.chunk.css",
+    "main.js": "/code-editor-web-app/static/js/main.68cdd669.chunk.js",
+    "main.js.map": "/code-editor-web-app/static/js/main.68cdd669.chunk.js.map",
+    "runtime-main.js": "/code-editor-web-app/static/js/runtime-main.69b9a135.js",
+    "runtime-main.js.map": "/code-editor-web-app/static/js/runtime-main.69b9a135.js.map",
+    "static/css/2.23249a66.chunk.css": "/code-editor-web-app/static/css/2.23249a66.chunk.css",
+    "static/js/2.b97575e6.chunk.js": "/code-editor-web-app/static/js/2.b97575e6.chunk.js",
+    "static/js/2.b97575e6.chunk.js.map": "/code-editor-web-app/static/js/2.b97575e6.chunk.js.map",
+    "index.html": "/code-editor-web-app/index.html",
+    "service-worker.js": "/code-editor-web-app/service-worker.js",
+    "service-worker.js.map": "/code-editor-web-app/service-worker.js.map",
+    "static/css/2.23249a66.chunk.css.map": "/code-editor-web-app/static/css/2.23249a66.chunk.css.map",
+    "static/css/main.e07ede94.chunk.css.map": "/code-editor-web-app/static/css/main.e07ede94.chunk.css.map",
+    "static/js/2.b97575e6.chunk.js.LICENSE.txt": "/code-editor-web-app/static/js/2.b97575e6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.69b9a135.js",
+    "static/css/2.23249a66.chunk.css",
+    "static/js/2.b97575e6.chunk.js",
+    "static/css/main.e07ede94.chunk.css",
+    "static/js/main.68cdd669.chunk.js"
+  ]
+}
