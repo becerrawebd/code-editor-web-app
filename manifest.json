@@ -1,6 +1,6 @@
 {
-  "name": "code-editor-react-app",
-  "short_name": "code-editor-react-app",
+  "name": "Code Editor",
+  "short_name": "Code Editor",
   "theme_color": "#000000",
   "background_color": "#000000",
   "display": "standalone",
